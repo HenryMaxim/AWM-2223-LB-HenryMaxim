@@ -1,0 +1,28 @@
+<resources>
+    <string name="what_day">Day: %d</string>
+    <string name="about">Info:</string>
+    <string name="expand_button_content_description">See more or less information about a Tip.</string>
+    <string name="title">30 Days of Fitnes</string>
+
+    <string name="app_name">TipApp</string>
+    <string name="day1">Have a mission</string>
+    <string name="day2">Makeover your pantry</string>
+    <string name="day3">Consider the scale</string>
+    <string name="day4">Get excited about activity</string>
+    <string name="day5">Find balance in the kitchen</string>
+    <string name="day6">Devote time to your core</string>
+    <string name="day7">Trade butter for avocado</string>
+    <string name="day8">Identify your top treats</string>
+
+
+    <string name="info1">Try to identify at least three goals you can track. Doing so will help you keep up your motivation.</string>
+    <string name="info2">Take a look at the foods you have in stock. Toss any that are highly processed, or contain artificial additives or ingredients you dont recognize.</string>
+    <string name="info3">Before you weigh yourself, check in with your emotions. Some people look at weight as a data point. </string>
+    <string name="info4">Choose a physical activity you enjoy and devote 30 minutes to it. </string>
+    <string name="info5">If your eating habits have been a bit erratic, try adjusting your portion sizes naturally</string>
+    <string name="info6">Core strength can improve your posture, prevent back pain, support proper breathing, even boost digestion.</string>
+    <string name="info7">Good fats like avocado help reduce inflammation, improve circulation, and protect your heart. </string>
+    <string name="info8">Its not realistic to go through life never eating your favorite goodies. And its not necessary either, even if youre trying to lose or maintain your weight. </string>
+    <string name="info"></string>
+
+</resources>

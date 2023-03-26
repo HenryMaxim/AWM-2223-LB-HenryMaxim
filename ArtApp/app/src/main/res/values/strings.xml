@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Art App</string>
+    <string name="lemon_tree_description">This is a nice looking lemon tree</string>
+    <string name="lemon_description">This looks like a healthy lemon</string>
+    <string name="lemon_glass_description">That lemon juice looks refreshing</string>
+    <string name="empty_glass_description">More lemon juice</string>
+    <string name="lemon_tree_title">LEMON TREE</string>
+    <string name="lemon_title">LEMON</string>
+    <string name="lemon_glass_title">FILLED GLASS</string>
+    <string name="empty_glass_title">EMPTY GLASS</string>
+    <string name="previous_button">Previous</string>
+    <string name="next_button">Next</string>
+</resources>
